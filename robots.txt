@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://efagoewi.github.io/sitemap_index.efagoewi
